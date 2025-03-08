@@ -1,23 +1,27 @@
-## Hi there 👋
-# Hi there 👋 I'm Tauha Imran
+# Tauha Imran  
 
-Welcome to my GitHub profile! Here's a little about me:  
-- 🎓 **Computer Science Student** at FAST Islamabad.  
-- 🌟 Passionate about **DevOps**, efficient computing, and project management.  
-- 🛠️ Currently exploring the intersection of technology and agile methodologies.  
+Computer Scientist | FAST'26  
+Specialized in **Embedded Systems** **AI/ML**, **DevOps**, and **Data Science**  
+I Also do _Graphic Design_ , _UI/X Design_ , _Digital Marketing_
 
 ---
 
-### 🔧 My Tech Stack:
-- **Languages:** C++, JavaScript
-- **Tools:** Docker, GitHub Actions, Jira  
-- **Frameworks:** React.js, Node.js  
+### **About Me**  
+- **Education**: Computer Science Student, BSCS FAST (2022-2026)  
+- **Contact**: [tauhaimran@gmail.com](mailto:tauhaimran@gmail.com)   
 
 ---
 
-### ✨ Subtle Animation (SVG Example):
-![Animated Wave](https://raw.githubusercontent.com/tauhaimran/tauhaimran/main/assets/wave.svg)  
+### **Connect with Me**  
+##### Technical Links
+- **LinkedIn**: [Tauha Imran](https://www.linkedin.com/in/tauha-imran-6185b3280/)  
+##### Graphics Links
+- **Behance**: [Naqsh Perceptions](https://www.behance.net/naqshperceptions)  
+- **DeviantArt**: [Naqsh Perceptions](https://www.deviantart.com/naqshperceptions)
+##### Miscellanious 
+- **GitHub Username**: `raggygaggy`  
 
 ---
 
-Feel free to explore my repositories and connect!
+Feel free to explore my repositories and reach out for collaborations or discussions.  
+
