@@ -1,6 +1,6 @@
 # Tauha Imran  
 Computer Scientist | FAST'26  
-Specializing in **Embedded Systems**, **AI/ML**, **DevOps**, and **Data Science**  
+Specializing in **AI/ML**, **VR**, **Game Dev**, **Embedded Systems** & **DevOps**.
 Also do _Graphic Design_ , _UI/UX Design_ , _Digital Marketing_
 
 Currently: AI - Fellowsip @ Buildables 
