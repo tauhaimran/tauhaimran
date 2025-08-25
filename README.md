@@ -3,8 +3,8 @@ Computer Scientist | FAST'26
 Specializing in **Embedded Systems**, **AI/ML**, **DevOps**, and **Data Science**  
 Also do _Graphic Design_ , _UI/UX Design_ , _Digital Marketing_
 
-Currently: UI/UX Intern @ Eynvision | VR & Biomedical Systems Intern @ NCAI, NUST
-_Also working on VR development for FYP (quietly cooking...)_
+Currently: AI - Fellowsip @ Buildables 
+_working on VR dev & AI developement in FYP_
 
 ##### Technical Links
 - **Email**: [tauhaimran@gmail.com](mailto:tauhaimran@gmail.com)   
