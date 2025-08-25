@@ -3,8 +3,8 @@ Computer Scientist | FAST'26
 Specializing in **AI/ML**, **VR**, **Game Dev**, **Embedded Systems** & **DevOps**.
 Also do _Graphic Design_ , _UI/UX Design_ , _Digital Marketing_
 
-Currently: AI - Fellowsip @ Buildables 
-_working on VR dev & AI developement in FYP_
+Currently: AI - Fellowship @ Buildables
+_(working on VR dev & AI developement in FYP)_
 
 ##### Technical Links
 - **Email**: [tauhaimran@gmail.com](mailto:tauhaimran@gmail.com)   
