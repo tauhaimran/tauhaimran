@@ -17,6 +17,6 @@ _(working on VR dev & AI developement in FYP)_
 - **DeviantArt**: [Naqsh Perceptions](https://www.deviantart.com/naqshperceptions)
 
 ##### Miscellanious  
--blog: https://www.tumblr.com/raggygaggy
+- **blog**: https://www.tumblr.com/raggygaggy
 
 Feel free to explore my repositories and reach out for collaborations or discussions.
